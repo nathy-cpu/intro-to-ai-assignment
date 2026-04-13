@@ -2,6 +2,7 @@
 
 A complete implementation of Deep Q-Networks (DQN) using only Python and NumPy.
 
+```
 Deep Q-Network (DQN) Implementation using only NumPy
 Authors:
     Memar Gedefaw 	    UGR/7591/15 
@@ -10,7 +11,7 @@ Authors:
     Yeabisra Bizuwork	UGR/4173/15
 Course: Introduction to Artificial Intelligence
 Addis Ababa University
-
+```
 ## Quick Start
 
 ```bash
